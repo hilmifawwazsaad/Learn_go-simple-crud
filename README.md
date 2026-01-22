@@ -4,7 +4,7 @@ API sederhana untuk belajar CRUD (Create, Read, Update, Delete) menggunakan Go.
 
 ## Live Demo
 
-🚀 **https://go-simple-crud.zeabur.app/**
+**https://go-simple-crud.zeabur.app/**
 
 ## Struktur Project
 
